@@ -1,5 +1,5 @@
 # romnum.
-Roman Numeral Kata in Go. 
+This is a Number to Roman Numerals converter written in *Go* followed by *TDD* pattern. Wrote this after getting inpired by watching [this](https://www.youtube.com/watch?v=983zk0eqYLY) video on Youtube. 
 
 ### Install
 `go get -u github.com/monirz/romnum`
