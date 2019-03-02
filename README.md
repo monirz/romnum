@@ -1,4 +1,5 @@
-# romanum is a simple Go package for converting number to Roman Numerals.
+# romnum.
+Roman Numeral Kata in Go. 
 
 ### Install
 `go get -u github.com/monirz/romnum`
